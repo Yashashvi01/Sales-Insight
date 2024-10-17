@@ -5,6 +5,6 @@ The Report Contains 3 pages:-
 2. Profit Analysis
 3. Performance Insights
 
-Here is the live link for the report:-
+Here is the PDF link for the report:-
 
-[Live Link](https://app.powerbi.com/view?r=eyJrIjoiZTEwYjVjYTItYjMzZC00NDIyLTgyNTYtZTU5YWUyZDIzOTllIiwidCI6ImRmMmY0MDk0LTRkZTEtNDM5NC04NDZiLWU2MjZjNzFjNWMzNyJ9)
+[PDF Link](https://github.com/Yashashvi01/Sales-Insight/blob/master/Sales_Insight%20(1).pdf)
